@@ -1,3 +1,8 @@
+# Identitas Mahasiswa
+
+Nama : Erlina Nita Sumadya
+NPM : 2206030712
+
 # NCL (Neighborhood-enriched Contrastive Learning)
 
 Reproduce data ini berasal dari paper berikut. [paper](https://arxiv.org/abs/2202.06200):
