@@ -1,6 +1,6 @@
 # NCL (Neighborhood-enriched Contrastive Learning)
 
-This is the official PyTorch implementation for the [paper](https://arxiv.org/abs/2202.06200):
+Reproduce data ini berasal dari paper berikut. [paper](https://arxiv.org/abs/2202.06200):
 > Zihan Lin*, Changxin Tian*, Yupeng Hou* Wayne Xin Zhao. Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning. WWW 2022.
 
 ## Overview
